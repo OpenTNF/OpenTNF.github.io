@@ -16,9 +16,7 @@ The OpenTNF™ format is specified as a set of data tables that in principal may
 * Metadata, also according to any XML compliant standard such as ISO 19139
 * Update (transaction) information for the case that the dataset represents a set of updates
 
-To align to this specification an implementation shall implement all mandatory and conditional elements as specified. Optional elements may be implemented and if they are implemented they shall be implemented as specified. Finally, an implementation may add additional elements and extend this specification provided that all mandatory, conditional and optional elements are not affected. This means that implementations are free to add tables or columns.
-
-# OpenTNF Specification
+# OpenTNF specification
 
 The first release of the <a href="https://github.com/OpenTNF/opentnf/blob/master/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF specification</a> is available for download.
 
