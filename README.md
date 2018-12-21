@@ -1,4 +1,4 @@
-<h1><img src="https://OpenTNF.github.io/logo.png" tag="OpenTNF" style="float: left"> OpenTNF Website</h1>
+<h1><img src="https://OpenTNF.github.io/logo.png" tag="  OpenTNF" style="float: left"> OpenTNF Website</h1>
 
 OpenTNF™ is an open specification for interoperability and exchange of data on Transport Networks. The format enables users to read and write OpenTNF™ data files using either self-written or Open Source software. 
 
@@ -20,7 +20,7 @@ To align to this specification an implementation shall implement all mandatory a
 
 # OpenTNF Specification
 
-The first release of the specification is available for download <a href="https://github.com/OpenTNF/opentnf/blob/master/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF 1.0  <img src="https://github.com/OpenTNF/opentnf/blob/master/pdf_icon.png" tag="pdf"></a>
+The first release of the specification is available for download <a href="https://OpenTNF.github.io/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF 1.0  <img src="https://OpenTNF.github.io/pdf_icon.png" tag="pdf"></a>
 
 Everyone is invited to contribute to further development and maintenance of OpenTNF™. We encourage you to read, review, evaluate, use, discuss and comment this initiative and document.
 
