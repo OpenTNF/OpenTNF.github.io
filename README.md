@@ -1,4 +1,4 @@
-<h1><img src="https://OpenTNF.github.io/logo.png" tag="  OpenTNF" style="float: left"> OpenTNF Website</h1>
+<h1><img src="https://OpenTNF.github.io/logo.png" tag="OpenTNF" style="float: left">  OpenTNF Website</h1>
 
 OpenTNF™ is an open specification for interoperability and exchange of data on Transport Networks. The format enables users to read and write OpenTNF™ data files using either self-written or Open Source software. 
 
