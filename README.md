@@ -36,6 +36,6 @@ Planned activities is as follows;
 * 	January 15th  2019 at 13.00 (CET)  - Comparing models for providing geospatial information from GIS to ITS databases (Knut Jetlund, Statens Vegvesen)
 *	March 19th 2019 at 14.00 (CET) - Steering committee meeting
 
-To register for the activities send a mail to registration@opentnf.org.
+To register for the activities send a mail to <registration@opentnf.org>.
 
 
