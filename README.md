@@ -26,8 +26,16 @@ Everyone is invited to contribute to further development and maintenance of Open
 
 The OpenTNF™ specification is licensed under the Creative Commons Attribution-No Derivative Works 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/.
 
-
-### Activities
+# Activities
 
 A statutory steering group meeting and workshop was held in Oslo at Triona’s office in Oslo 12th of December. The <a href="https://github.com/OpenTNF/opentnf/blob/master/meeting%20notes/Meeting%20notes%20OpenTNF%202018-11-20.pdf" target="_blank">meeting notes</a> is available for download.
+
+Planned activities is as follows;
+
+* January 15th 2019 at 10.00 (CET)  - Introduction to OpenTNF (Anders Nilsson, Triona)
+* 	January 15th  2019 at 13.00 (CET)  - Comparing models for providing geospatial information from GIS to ITS databases (Knut Jetlund, Statens Vegvesen)
+*	March 19th 2019 at 14.00 (CET) - Steering committee meeting
+
+To register for the activities send a mail to registration@opentnf.org.
+
 
