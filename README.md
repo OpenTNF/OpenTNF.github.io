@@ -18,6 +18,8 @@ The OpenTNF™ format is specified as a set of data tables that in principal may
 
 To align to this specification an implementation shall implement all mandatory and conditional elements as specified. Optional elements may be implemented and if they are implemented they shall be implemented as specified. Finally, an implementation may add additional elements and extend this specification provided that all mandatory, conditional and optional elements are not affected. This means that implementations are free to add tables or columns.
 
+## OpeTNF Specification
+
 The first release of the specification is available for download <a href="https://github.com/OpenTNF/opentnf/blob/master/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF 1.0  <img src="https://github.com/OpenTNF/opentnf/blob/master/pdf_icon.png" tag="pdf"></a>
 
 Everyone is invited to contribute to further development and maintenance of OpenTNF™. We encourage you to read, review, evaluate, use, discuss and comment this initiative and document.
@@ -25,13 +27,7 @@ Everyone is invited to contribute to further development and maintenance of Open
 The OpenTNF™ specification is licensed under the Creative Commons Attribution-No Derivative Works 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/.
 
 
-## Welcome to GitHub Pages
+### Activities
 
-You can use the [editor on GitHub](https://github.com/OpenTNF/OpenTNF.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
