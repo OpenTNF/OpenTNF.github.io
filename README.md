@@ -18,7 +18,7 @@ The OpenTNF™ format is specified as a set of data tables that in principal may
 
 To align to this specification an implementation shall implement all mandatory and conditional elements as specified. Optional elements may be implemented and if they are implemented they shall be implemented as specified. Finally, an implementation may add additional elements and extend this specification provided that all mandatory, conditional and optional elements are not affected. This means that implementations are free to add tables or columns.
 
-## OpeTNF Specification
+# OpenTNF Specification
 
 The first release of the specification is available for download <a href="https://github.com/OpenTNF/opentnf/blob/master/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF 1.0  <img src="https://github.com/OpenTNF/opentnf/blob/master/pdf_icon.png" tag="pdf"></a>
 
@@ -29,5 +29,5 @@ The OpenTNF™ specification is licensed under the Creative Commons Attribution-
 
 ### Activities
 
-...
+A statutory steering group meeting and workshop was held in Oslo at Triona’s office in Oslo 12th of December. The <a href="https://github.com/OpenTNF/opentnf/blob/master/meeting%20notes/Meeting%20notes%20OpenTNF%202018-11-20.pdf" target="_blank">meeting notes</a> is available for download.
 
