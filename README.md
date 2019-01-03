@@ -16,15 +16,23 @@ The OpenTNF™ format is specified as a set of data tables that in principal may
 * Metadata, also according to any XML compliant standard such as ISO 19139
 * Update (transaction) information for the case that the dataset represents a set of updates
 
-# OpenTNF specification
+## OpenTNF specification
 
-The first release of the <a href="https://github.com/OpenTNF/opentnf/blob/master/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF specification</a> is available for download.
+The first release of the <a href="https://github.com/OpenTNF/opentnf/blob/master/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF specification</a> is available for download at https://github.com/OpenTNF/opentnf.
 
 Everyone is invited to contribute to further development and maintenance of OpenTNF™. We encourage you to read, review, evaluate, use, discuss and comment this initiative and document.
 
 The OpenTNF™ specification is licensed under the Creative Commons Attribution-No Derivative Works 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/.
 
-# Activities
+## OpenTNF Library
+
+A reference implementation of the OpenTNF standard using OGC GeoPackage (www.geopackage.org) and SQLite (www.sqlite.org) are available at https://github.com/OpenTNF/OpenTNF-library.
+
+## Example datset
+
+Example datasets are available at https://github.com/OpenTNF/opentnf/tree/master/Example%20datasets.
+
+## Activities
 
 A statutory steering group meeting and workshop was held in Oslo at Triona’s office in Oslo 12th of December. The <a href="https://github.com/OpenTNF/opentnf/blob/master/meeting%20notes/Meeting%20notes%20OpenTNF%202018-11-20.pdf" target="_blank">meeting notes</a> is available for download.
 
