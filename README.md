@@ -18,7 +18,7 @@ The OpenTNF™ format is specified as a set of data tables that in principal may
 
 ## OpenTNF specification
 
-The first release of the <a href="https://github.com/OpenTNF/opentnf/blob/master/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF specification</a> is available for download at [GitHub](https://github.com/OpenTNF/opentnf).
+The current release of the <a href="https://github.com/OpenTNF/opentnf/blob/master/OpenTNF%20-%20white%20paper.pdf" target="_blank">OpenTNF specification</a> is available for download at [GitHub](https://github.com/OpenTNF/opentnf).
 
 Everyone is invited to contribute to further development and maintenance of OpenTNF™. We encourage you to read, review, evaluate, use, discuss and comment this initiative and document.
 
