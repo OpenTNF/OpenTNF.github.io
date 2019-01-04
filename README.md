@@ -22,7 +22,7 @@ The current release of the <a href="https://github.com/OpenTNF/opentnf/blob/mast
 
 Everyone is invited to contribute to further development and maintenance of OpenTNF™. We encourage you to read, review, evaluate, use, discuss and comment this initiative and document.
 
-Comments, problems, errors, questions, proposals etc. can be registred as  [OpenTNF Issues](https://github.com/OpenTNF/opentnf/issues).
+Please register your comments, problems, errors, questions, proposals etc. in our [OpenTNF Issue List](https://github.com/OpenTNF/opentnf/issues).
 
 The OpenTNF™ specification is licensed under the Creative Commons Attribution-No Derivative Works 4.0 Unported License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nd/4.0/>.
 
