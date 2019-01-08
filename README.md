@@ -30,7 +30,7 @@ The OpenTNF™ specification is licensed under the Creative Commons Attribution-
 
 A reference implementation of the OpenTNF standard using [OGC GeoPackage](http://www.geopackage.org) and [SQLite](http://www.sqlite.org) are available [here](https://github.com/OpenTNF/OpenTNF-library).
 
-### Example datset
+### Example dataset
 
 Example datasets are available [here](https://github.com/OpenTNF/opentnf/tree/master/Example%20datasets).
 
