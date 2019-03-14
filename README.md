@@ -41,7 +41,7 @@ A statutory steering group meeting and workshop was held in Oslo at Triona’s o
 Planned activities is as follows;
 
 * January 15th 2019 at 10.00 (CET)  - Introduction to OpenTNF (Anders Nilsson, Triona)
-* 	January 15th  2019 at 13.00 (CET)  - Comparing models for providing geospatial information from GIS to ITS databases (Knut Jetlund, Statens Vegvesen)
+* 	January 15th  2019 at 13.00 (CET)  - Comparing models for providing geospatial information from GIS to ITS databases (Knut Jetlund, Statens Vegvesen) The article is published [here](https://www.mdpi.com/2220-9964/8/3/141).
 *	March 19th 2019 at 14.00 (CET) - Steering committee meeting
 
 To register for the activities send a mail to <registration@opentnf.org>.
