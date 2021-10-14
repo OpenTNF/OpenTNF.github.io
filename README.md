@@ -38,12 +38,6 @@ Example datasets are available [here](https://github.com/OpenTNF/opentnf/tree/ma
 
 A statutory steering group meeting and workshop was held in Oslo at Triona’s office in Oslo 12th of December. The <a href="https://github.com/OpenTNF/opentnf/blob/master/meeting%20notes/Meeting%20notes%20OpenTNF%202018-11-20.pdf" target="_blank">meeting notes</a> is available for download.
 
-Planned activities is as follows;
-
-* January 15th 2019 at 10.00 (CET)  - Introduction to OpenTNF (Anders Nilsson, Triona)
-* 	January 15th  2019 at 13.00 (CET)  - Comparing models for providing geospatial information from GIS to ITS databases (Knut Jetlund, Statens Vegvesen) The article is published [here](https://www.mdpi.com/2220-9964/8/3/141).
-*	March 19th 2019 at 14.00 (CET) - Steering committee meeting
-
-To register for the activities send a mail to <registration@opentnf.org>.
+To register interest in participating in future activities send a mail to <registration@opentnf.org>.
 
 
