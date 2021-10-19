@@ -36,7 +36,7 @@ Example datasets are available [here](https://github.com/OpenTNF/opentnf/tree/ma
 
 ### Activities
 
-A statutory steering group meeting and workshop was held in Oslo at Triona’s office in Oslo 12th of December. The <a href="https://github.com/OpenTNF/opentnf/blob/master/meeting%20notes/Meeting%20notes%20OpenTNF%202018-11-20.pdf" target="_blank">meeting notes</a> is available for download.
+A statutory steering group meeting and workshop was held in Oslo at Triona’s office in Oslo 12th of December 2018. The <a href="https://github.com/OpenTNF/opentnf/blob/master/meeting%20notes/Meeting%20notes%20OpenTNF%202018-11-20.pdf" target="_blank">meeting notes</a> is available for download.
 
 To register register interest in participating in future activities send a mail to <registration@opentnf.org>.
 
